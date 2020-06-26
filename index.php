@@ -61,7 +61,7 @@ if(isset($links[$model])){
 <div class="left-col-block blocks">
     <header class="header">
         <div class="content text-center">
-            <h1>Hi, I'm Tanjir!</h1>
+            <h1>Hi, I'm AB Tanjir!</h1>
 
             <p class="lead">Full Stack Software Engineer</p>
             <ul class="social-icon">
