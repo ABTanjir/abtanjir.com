@@ -663,7 +663,7 @@ if(isset($links[$model])){
                 <div class="feedback-form">
                     <h2>Get in touch</h2>
 
-                    <form id="contactForm" action="http://localhost/abtanjir.com/sendemail.php" method="POST">
+                    <form id="contactForm" action="https://abtanjir.com/sendemail.php" method="POST">
                         <div class="form-group">
                             <label for="InputName">Name</label>
                             <input type="text" name="name" required="" class="form-control" id="InputName"
