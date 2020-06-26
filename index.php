@@ -61,7 +61,7 @@ if(isset($links[$model])){
 <div class="left-col-block blocks">
     <header class="header">
         <div class="content text-center">
-            <h1>Hi, I'm AB Tanjir!</h1>
+            <h1>Hi, I'm Tanjir!</h1>
 
             <p class="lead">Full Stack Software Engineer</p>
             <ul class="social-icon">
@@ -87,7 +87,9 @@ if(isset($links[$model])){
                     <h2 style="float:left;">What I am all about.</h2>
                     <h2 style="float:right;"><a href="https://abtanjir.com/ABTanjir-cv.pdf"><i class="fa fa-chevron-down animate"></i>Download My CV</a></h2>
                 </div>
+
             </div>
+
             <div class="col-md-12">
                 <p>
                     I'm in 💔 with backend and security stuffs. Love to play with PHP, Python & JavaScript.
