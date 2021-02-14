@@ -665,7 +665,7 @@ if(isset($links[$model])){
 
                     <form id="contactForm" action="https://abtanjir.com/sendemail.php" method="POST">
                         <div class="form-group">
-                            <label for="InputName">Name</label>
+                            <label for="InputName">Name....</label>
                             <input type="text" name="name" required="" class="form-control" id="InputName"
                                    placeholder="Full Name">
                         </div>
